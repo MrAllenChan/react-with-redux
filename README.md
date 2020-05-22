@@ -1,2 +1,2 @@
 # react-with-redux
-Projects for react-with-redux course
+hi Projects for react-with-redux course
